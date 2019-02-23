@@ -1,0 +1,7 @@
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    runtimeOnly 'com.h2database:h2'
+    testCompile group: 'org.spockframework', name: 'spock-spring', version: '1.2-groovy-2.5'
+    compile group: 'cglib', name: 'cglib-nodep', version: '3.2.10'
+}

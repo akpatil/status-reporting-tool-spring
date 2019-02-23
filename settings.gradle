@@ -1,0 +1,5 @@
+rootProject.name = 'Status_Reporting_Tool_G1'
+include 'core'
+include 'web'
+include 'console'
+

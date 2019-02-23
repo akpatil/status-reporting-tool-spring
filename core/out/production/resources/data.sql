@@ -1,0 +1,2 @@
+insert into project (id, name, description, summary, milestone_status, is_deleted) values (100, 'First Project', 'First Desc', 'First Summary', 1, false);
+insert into project (id, name, description, summary, milestone_status, is_deleted) values (101, 'Second Project', 'Second Desc', 'Second Summary', 1, false);
