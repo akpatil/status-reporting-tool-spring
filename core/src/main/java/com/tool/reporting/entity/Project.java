@@ -22,15 +22,32 @@ public class Project {
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Setter(AccessLevel.NONE)
     private Long id;
+
+    @OneToOne
+    private Employee submitter;
+
     private String name;
     private String description;
+
+    @OneToOne
+    private Employee approver;
+
+    @OneToOne
+    private Status state;
+
+    @OneToOne
+    private Health health;
+
     private String summary;
     private Double budgetCost;
     private Double actualCost;
     private Double forecastedCost;
     private LocalDateTime implementationDate;
     private LocalDateTime milestoneDate;
-    private int milestoneStatus;
+
+    @OneToOne
+    private Status milestoneStatus;
+
     private boolean isDeleted;
 
     @CreationTimestamp

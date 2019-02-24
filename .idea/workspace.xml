@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf190c66-47ae-49a2-871e-55d1d378118f" name="Default Changelist" comment="" />
+    <list default="true" id="cf190c66-47ae-49a2-871e-55d1d378118f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/console/build/libs/console-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/console/build/libs/console-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/tool/reporting/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/tool/reporting/entity/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/tool/reporting/entity/Project.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/tool/reporting/entity/Project.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/tool/reporting/service/ProjectService.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/tool/reporting/service/ProjectService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/test/com/tool/reporting/ProjectServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/test/com/tool/reporting/ProjectServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/libs/core-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/libs/core-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/reports/tests/test/classes/com.tool.reporting.ProjectServiceTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/reports/tests/test/classes/com.tool.reporting.ProjectServiceTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/reports/tests/test/packages/com.tool.reporting.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/reports/tests/test/packages/com.tool.reporting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/resources/main/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/resources/main/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/test-results/test/TEST-com.tool.reporting.ProjectServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/test-results/test/TEST-com.tool.reporting.ProjectServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/out/production/classes/com/tool/reporting/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/out/production/classes/com/tool/reporting/entity/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/out/production/classes/com/tool/reporting/entity/Project.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/out/production/classes/com/tool/reporting/entity/Project.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/out/production/classes/com/tool/reporting/service/ProjectService.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/out/production/classes/com/tool/reporting/service/ProjectService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/out/production/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/core/out/production/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/out/test/classes/com/tool/reporting/ProjectServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/service/ProjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/service/ProjectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/test/java/com/tool/reporting/ProjectServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/test/java/com/tool/reporting/ProjectServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/web/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/build/libs/web-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/build/libs/web-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/out/production/classes/com/tool/reporting/controller/ProjectController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/out/production/classes/com/tool/reporting/controller/ProjectController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/out/production/classes/com/tool/reporting/util/ProjectMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/out/production/classes/com/tool/reporting/util/ProjectMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/out/production/classes/com/tool/reporting/util/ViewName.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/out/production/classes/com/tool/reporting/util/ViewName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/out/production/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/out/production/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/controller/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/controller/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ProjectMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ProjectMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ViewName.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ViewName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/templates/home.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -60,19 +107,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/service/ProjectService.java">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/projects/view-projects.th.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/controller/ProjectController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="45">
+              <caret line="3" column="91" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -80,17 +118,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="120">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/WebMain.java">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/controller/ProjectController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="103">
+              <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -98,8 +136,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ViewName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            <state relative-caret-position="75">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -107,40 +154,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ProjectMapping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+            <state relative-caret-position="60">
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/repository/ProjectRepository.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/test/java/com/tool/reporting/ProjectServiceTest.java">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/projects/view-projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Project.java">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/projects/add-project.th.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="30">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/console/src/main/java/com/tool/reporting/console/ProjectTrackingTool.java">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/projects/add-project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            <state relative-caret-position="60">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/fragments/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="67" selection-start-column="67" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -161,12 +212,15 @@
       <find>Console:</find>
       <find>delete</find>
       <find>s_delete property:</find>
+      <find>alter</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/build.gradle" />
         <option value="$PROJECT_DIR$/core/build.gradle" />
         <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/Project.java" />
         <option value="$PROJECT_DIR$/console/build.gradle" />
@@ -174,20 +228,33 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/SpringCoreApplication.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/repository/ProjectRepository.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Employee.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/service/ProjectService.java" />
-        <option value="$PROJECT_DIR$/core/src/main/resources/data.sql" />
         <option value="$PROJECT_DIR$/core/src/main/resources/logback-spring.xml" />
         <option value="$PROJECT_DIR$/console/src/main/java/com/tool/reporting/console/ProjectTrackingTool.java" />
-        <option value="$PROJECT_DIR$/core/src/test/java/com/tool/reporting/ProjectServiceTest.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Project.java" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/WebMain.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/controller/ProjectController.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ProjectMapping.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ViewName.java" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/service/ProjectService.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Health.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Employee.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Status.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Project.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/thymeleaf/DecoupledLogicSetup.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/fragments/head.th.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/data.sql" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/fragments/head.html" />
+        <option value="$PROJECT_DIR$/web/build.gradle" />
+        <option value="$PROJECT_DIR$/core/src/test/java/com/tool/reporting/ProjectServiceTest.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/fragments/nav.html" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/view-projects.th.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/view-projects.html" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/add-project.html" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/add-project.th.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ProjectMapping.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml" />
         <option value="$PROJECT_DIR$/web/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ViewName.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/projects/view-projects.th.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/tool/reporting/controller/ProjectController.java" />
       </list>
     </option>
   </component>
@@ -197,11 +264,15 @@
     <option name="width" value="1346" />
     <option name="height" value="707" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,6 +283,74 @@
             <path>
               <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="reporting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="reporting" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -264,30 +403,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="tool" type="462c0819:PsiDirectoryNode" />
               <item name="reporting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tool" type="462c0819:PsiDirectoryNode" />
-              <item name="reporting" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tool" type="462c0819:PsiDirectoryNode" />
-              <item name="reporting" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
@@ -307,19 +422,50 @@
               <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="reporting" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="thymeleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Status_Reporting_Tool_G1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Status_Reporting_Tool_G1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550941550950" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551021458335" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -329,6 +475,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/console/src/main/resources" />
       <recent name="$PROJECT_DIR$/core/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/src/main/resources/templates/projects" />
+      <recent name="$PROJECT_DIR$/web/src/main/resources/templates/fragments" />
+      <recent name="$PROJECT_DIR$/web/src/main/resources/templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -370,6 +521,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Status_Reporting_Tool_G1 [clean build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="ProjectServiceTest.deleteProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tool.reporting.core.test" />
       <extension name="coverage">
@@ -381,22 +552,6 @@
       <option name="PACKAGE_NAME" value="com.tool.reporting" />
       <option name="MAIN_CLASS_NAME" value="com.tool.reporting.ProjectServiceTest" />
       <option name="METHOD_NAME" value="deleteProject" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProjectServiceTest.saveProjectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tool.reporting.core.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tool.reporting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.tool.reporting" />
-      <option name="MAIN_CLASS_NAME" value="com.tool.reporting.ProjectServiceTest" />
-      <option name="METHOD_NAME" value="saveProjectTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -421,10 +576,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.WebMain" />
+        <item itemvalue="Gradle.Status_Reporting_Tool_G1 [clean build]" />
         <item itemvalue="JUnit.ProjectServiceTest.deleteProject" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.ProjectServiceTest.updateProject" />
-        <item itemvalue="JUnit.ProjectServiceTest.saveProjectTest" />
       </list>
     </recent_temporary>
   </component>
@@ -474,10 +629,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-1" width="1368" height="749" extended-state="6" />
+    <frame x="-1" y="-1" width="1368" height="749" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49752474" visible="true" weight="0.24924472" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49752474" visible="true" weight="0.24697885" />
       <window_info id="Structure" order="1" sideWeight="0.50247526" side_tool="true" weight="0.24924472" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -487,10 +642,9 @@
       <window_info id="Favorites" order="7" sideWeight="0.5011765" side_tool="true" weight="0.24924472" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="Job Explorer" order="9" />
-      <window_info anchor="bottom" id="Messages" weight="0.32911393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43512657" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43512657" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.556962" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -501,6 +655,7 @@
       <window_info anchor="bottom" id="Build" order="10" weight="0.32753164" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32911393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -517,145 +672,158 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/ProjectController.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.1.4.RELEASE/a430ce25b38b2ede9e9ed1e1b304981a725d822f/spring-data-jpa-2.1.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
-          <caret line="142" column="47" selection-start-line="142" selection-start-column="47" selection-end-line="142" selection-end-column="47" />
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.4.RELEASE/a42beaa91e810d6f81524d8f9d8b47165eb68463/spring-data-commons-2.1.4.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/service/ProjectService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="345">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/logback-spring.xml">
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Health.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        <state relative-caret-position="345">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/data.sql">
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Status.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="155" selection-start-line="1" selection-start-column="155" selection-end-line="1" selection-end-column="155" />
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/thymeleaf/DecoupledLogicSetup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/com/tool/reporting/console/ProjectTrackingTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/test/java/com/tool/reporting/ProjectServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="315">
+          <caret line="21" column="76" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/entity/Project.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="437">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/data.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/ProjectController.java">
+    <entry file="file://$PROJECT_DIR$/web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/test/java/com/tool/reporting/ProjectServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/fragments/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/fragments/head.th.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/fragments/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" selection-start-column="67" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/projects/view-projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/projects/add-project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/projects/add-project.th.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/service/ProjectService.java">
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/config/WebConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ViewName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        <state relative-caret-position="120">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ProjectMapping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        <state relative-caret-position="60">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tool/reporting/repository/ProjectRepository.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/util/ViewName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/projects/view-projects.th.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="91" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/controller/ProjectController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/tool/reporting/WebMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="103">
+          <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
         </state>
       </provider>
     </entry>

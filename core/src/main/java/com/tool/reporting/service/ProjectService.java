@@ -21,10 +21,11 @@ public class ProjectService {
         projectRepository.save(project);
     }
 
-    public void getAllProjects() {
+    public List<Project> getAllProjects() {
         log.info("ProjectService: findAllProjects() method called");
         List<Project> projects = projectRepository.findAll();
         log.info("Projects List: {}", projects.toString());
+        return projects;
     }
 
     public Optional<Project> getProjectById(Long id) {

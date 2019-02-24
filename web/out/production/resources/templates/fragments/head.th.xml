@@ -1,0 +1,3 @@
+<thlogic>
+    <attr sel="#gen_head" th:fragment="fragment_head"/>
+</thlogic>

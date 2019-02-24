@@ -35,7 +35,7 @@ public class ProjectServiceTest {
         project.setForecastedCost(1500D);
         project.setImplementationDate(LocalDateTime.now());
         project.setMilestoneDate(LocalDateTime.now());
-        project.setMilestoneStatus(1);
+        //project.setMilestoneStatus(1);
 
         projectService.saveProject(project);
         Project projectRetrieved = projectService.getProjectByName("Doomsday");

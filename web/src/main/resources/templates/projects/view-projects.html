@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head id="gen_head"></head>
+<body>
+<div id="gen_nav"></div>
+<table align="center" border="1">
+    <tr>
+        <th>Project Name</th>
+        <th>Project State</th>
+        <th>Project Health</th>
+        <th>Implementation Date</th>
+    </tr>
+    <tr th:each="p: ${projects}">
+        <td><a id="link_project" th:text="${p.name}"></a></td>
+        <td th:text="${p.state.name}"></td>
+        <td th:text="${p.health.name}"></td>
+        <td th:text="${p.implementationDate}"></td>
+    </tr>
+</table>
+
+</body>
+</html>

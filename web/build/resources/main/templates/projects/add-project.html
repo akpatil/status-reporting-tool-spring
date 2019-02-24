@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head id="gen_head"></head>
+<body>
+<div id="gen_nav"></div>
+<div class="container">
+    <form id="doc_project">
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" class="form-control" name="name" th:value="${project.name}"/>
+        </div>
+        <div class="form-group">
+            <label for="name">Description:</label>
+            <textarea class="form-control" name="description" th:value="${project.description}"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="name">Implementation Date:</label>
+            <input type="date" class="form-control" name="implementationDate" th:value="${project.implementationDate}"/>
+        </div>
+    </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+<thlogic>
+    <attr sel="#gen_head" th:replace="~{fragments/head :: fragment_head}"/>
+    <attr sel="#gen_nav" th:insert="~{fragments/nav :: fragment_nav}"/>
+    <attr sel="#view_projects" th:href="@{__${T(com.tool.reporting.util.ProjectMapping).VIEW_PROJECTS}__}"/>
+    <attr sel="#add_project" th:href="@{__${T(com.tool.reporting.util.ProjectMapping).ADD_OPEN_PROJECT}__}"/>
+</thlogic>
