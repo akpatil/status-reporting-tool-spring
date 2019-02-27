@@ -27,7 +27,13 @@ public class Project {
     private Employee submitter;
 
     private String name;
+
+    @OneToOne
+    private Strategy strategicAlignment;
     private String description;
+
+    @OneToOne
+    private Groups functionalGroup;
 
     @OneToOne
     private Employee approver;

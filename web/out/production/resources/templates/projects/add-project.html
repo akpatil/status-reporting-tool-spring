@@ -6,17 +6,47 @@
 <div class="container">
     <form id="doc_project">
         <div class="form-group">
-            <label for="name">Name:</label>
-            <input type="text" class="form-control" name="name" th:value="${project.name}"/>
+            <label for="submitter">Submitter:</label>
+            <input type="text" class="form-control" name="name" id="submitter" th:value="${project.submitter}"/>
         </div>
         <div class="form-group">
-            <label for="name">Description:</label>
-            <textarea class="form-control" name="description" th:value="${project.description}"></textarea>
+            <label for="name">Project Name:</label>
+            <input type="text" class="form-control" name="name" id="name" th:value="${project.name}"/>
         </div>
         <div class="form-group">
-            <label for="name">Implementation Date:</label>
-            <input type="date" class="form-control" name="implementationDate" th:value="${project.implementationDate}"/>
+            <label for="description">Description:</label>
+            <textarea class="form-control" name="description" id="description" th:value="${project.description}"></textarea>
         </div>
+        <div class="form-group">
+            <label for="functionalGroups">Functional Groups:</label>
+            <select class="form-control" id="functionalGroups">
+                <option th:each="g: ${groups}" th:text="${g.name}"></option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="approver">Approver:</label>
+            <select class="form-control" id="approver">
+                <option th:each="a: ${approvers}" th:text="${a.name}"></option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="projectStatus">Project State:</label>
+            <select class="form-control" id="projectStatus">
+                <option th:each="p: ${status}" th:text="${p.name}"></option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="projectHealth">Project Health:</label>
+            <select class="form-control" id="projectHealth">
+                <option th:each="p: ${healths}" th:text="${p.name}"></option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="implementationDate">Implementation Date:</label>
+            <input type="date" class="form-control" name="implementationDate" id="implementationDate" th:value="${project.implementationDate}"/>
+        </div>
+
     </form>
 </div>
 </body>
